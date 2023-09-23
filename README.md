@@ -69,7 +69,7 @@ where `r` is the number of successes until experiment is stopped and `p` is the 
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@v0.1.0-deno/mod.js';
 ```
 
 #### mode( r, p )
@@ -133,7 +133,7 @@ v = mode( 20, 1.5 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@deno/mod.js';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@v0.1.0-deno/mod.js';
 
 var v;
 var i;
