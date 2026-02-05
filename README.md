@@ -289,6 +289,11 @@ For more information on the project, filing bug reports and feature requests, an
 
 ---
 
+## License
+
+See [LICENSE][stdlib-license].
+
+
 ## Copyright
 
 Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
@@ -304,11 +309,11 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/stats-base-dists-negative-binomial-mode.svg
 [npm-url]: https://npmjs.org/package/@stdlib/stats-base-dists-negative-binomial-mode
 
-[test-image]: https://github.com/stdlib-js/stats-base-dists-negative-binomial-mode/actions/workflows/test.yml/badge.svg?branch=v0.2.1
-[test-url]: https://github.com/stdlib-js/stats-base-dists-negative-binomial-mode/actions/workflows/test.yml?query=branch:v0.2.1
+[test-image]: https://github.com/stdlib-js/stats-base-dists-negative-binomial-mode/actions/workflows/test.yml/badge.svg?branch=v0.2.2
+[test-url]: https://github.com/stdlib-js/stats-base-dists-negative-binomial-mode/actions/workflows/test.yml?query=branch:v0.2.2
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-base-dists-negative-binomial-mode/main.svg
-[coverage-url]: https://codecov.io/github/stdlib-js/stats-base-dists-negative-binomial-mode?branch=v0.2.1
+[coverage-url]: https://codecov.io/github/stdlib-js/stats-base-dists-negative-binomial-mode?branch=main
 
 <!--
 
@@ -334,6 +339,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [esm-url]: https://github.com/stdlib-js/stats-base-dists-negative-binomial-mode/tree/esm
 [esm-readme]: https://github.com/stdlib-js/stats-base-dists-negative-binomial-mode/blob/esm/README.md
 [branches-url]: https://github.com/stdlib-js/stats-base-dists-negative-binomial-mode/blob/main/branches.md
+
+[stdlib-license]: https://raw.githubusercontent.com/stdlib-js/stats-base-dists-negative-binomial-mode/main/LICENSE
 
 [negative-binomial-distribution]: https://en.wikipedia.org/wiki/Negative_binomial_distribution
 
