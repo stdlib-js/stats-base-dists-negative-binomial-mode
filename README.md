@@ -69,7 +69,7 @@ where `r` is the number of successes until experiment is stopped and `p` is the 
 ## Usage
 
 ```javascript
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@v0.2.2-esm/index.mjs';
 ```
 
 #### mode( r, p )
@@ -139,7 +139,7 @@ v = mode( 20, 1.5 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@v0.2.2-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
