@@ -69,6 +69,11 @@ where `r` is the number of successes until experiment is stopped and `p` is the 
 ## Usage
 
 ```javascript
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-negative-binomial-mode/tags). For example,
+
+```javascript
 import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@v0.2.2-esm/index.mjs';
 ```
 
@@ -139,7 +144,7 @@ v = mode( 20, 1.5 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@v0.2.2-esm/index.mjs';
+import mode from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-negative-binomial-mode@esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
