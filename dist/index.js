@@ -19,9 +19,9 @@
 
 // MODULES //
 
-var mode = require( './main.js' );
+var main = require( './main.js' );
 
 
 // EXPORTS //
 
-module.exports = mode;
+module.exports = main;
